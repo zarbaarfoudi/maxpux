@@ -1,10 +1,10 @@
 {
     "config" : [
         {
-            "tmdb_keys" : "dbf277ebbd39db472738f58966ac731d",
+            "tmdb_keys" : "345246bad6792619d62d261f66c1385d,98892a77b0cc1356d5872cf3cbbc5dd8,dbf277ebbd39db472738f58966ac731d",
             
             "int_interval" : 2,
-            "activate_ads" : "true",
+            "activate_ads" : "false",
             "custom_banner" : "false",
             "one_signal" : "8513c54f-8c2d-4637-b567-dafbf134dc11",
             "network" : "admob",
